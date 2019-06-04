@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. `git init` to start a new repo for your project
 1. `npm install` to get&update the dependencies
 1. `node create.js` to run the script
-1. Using your file editor check the keys inside the database folder
+1. Use your file editor check the keys inside the database folder
 
 ## Validation
 
